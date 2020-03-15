@@ -1,3 +1,5 @@
+
+复制于：https://github.com/jswh/synology_video_station_douban_plugin.git 未做改动
 修改自帖子 http://www.gebi1.com/thread-261344-1-9.html?_dsign=39316681 的代码
 
 原贴的信息应该是来自豆瓣的api，目前已经关闭，部分数据可用是博主自己代理了一层，然后缓存了老数据。
